@@ -13,13 +13,13 @@ function App() {
               <a href="/">Products</a>
             </div>
             <div>
-              <a href="/">Products</a>
+              <a href="/">About</a>
             </div>
             <div>
-              <a href="/">Products</a>
+              <a href="/">Resources</a>
             </div>
             <div>
-              <a href="/">Products</a>
+              <a href="/">Contact</a>
             </div>
           </div>
           <div className="sm:flex hidden bg-cust-black font-Inter rounded-lg px-8 py-2.5 font-bold">
